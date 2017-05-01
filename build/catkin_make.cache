@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/jrv/Desktop/SocialBot/SocialBot/devel -DCMAKE_INSTALL_PREFIX=/home/jrv/Desktop/SocialBot/SocialBot/install -G Unix Makefiles
