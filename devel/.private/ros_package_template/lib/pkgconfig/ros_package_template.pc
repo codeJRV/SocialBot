@@ -1,0 +1,8 @@
+prefix=/home/jrv/Desktop/SocialBot/SocialBot/devel/.private/ros_package_template
+
+Name: ros_package_template
+Description: Description of ros_package_template
+Version: 0.1.0
+Cflags: -I/home/jrv/Desktop/SocialBot/SocialBot/src/Link to ros_best_practices/ros_package_template/include
+Libs: -L/home/jrv/Desktop/SocialBot/SocialBot/devel/.private/ros_package_template/lib 
+Requires: sensor_msgs

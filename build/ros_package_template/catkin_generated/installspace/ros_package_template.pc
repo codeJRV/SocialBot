@@ -1,0 +1,8 @@
+prefix=/home/jrv/Desktop/SocialBot/SocialBot/install
+
+Name: ros_package_template
+Description: Description of ros_package_template
+Version: 0.1.0
+Cflags: -I/home/jrv/Desktop/SocialBot/SocialBot/install/include
+Libs: -L/home/jrv/Desktop/SocialBot/SocialBot/install/lib 
+Requires: sensor_msgs
