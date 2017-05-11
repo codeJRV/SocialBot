@@ -1,0 +1,1 @@
+/home/jrv/Desktop/SocialBot/SocialBot/devel/.private/beginner_tutorials/lib/python2.7/dist-packages/beginner_tutorials/msg/_Num.py

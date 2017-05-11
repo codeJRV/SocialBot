@@ -3,6 +3,6 @@ prefix=/home/jrv/Desktop/SocialBot/SocialBot/install
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/jrv/Desktop/SocialBot/SocialBot/install/include
 Libs: -L/home/jrv/Desktop/SocialBot/SocialBot/install/lib 
-Requires: 
+Requires: message_runtime

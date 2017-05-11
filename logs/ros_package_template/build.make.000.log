@@ -3,7 +3,7 @@
 [ 40%] [32m[1mLinking CXX shared library /home/jrv/Desktop/SocialBot/SocialBot/devel/.private/ros_package_template/lib/libros_package_template_core.so[0m
 [ 40%] Built target ros_package_template_core
 [35m[1mScanning dependencies of target ros_package_template[0m
-[ 60%] [32mBuilding CXX object CMakeFiles/ros_package_template.dir/src/ros_package_template_node.cpp.o[0m
-[ 80%] [32mBuilding CXX object CMakeFiles/ros_package_template.dir/src/RosPackageTemplate.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/ros_package_template.dir/src/RosPackageTemplate.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/ros_package_template.dir/src/ros_package_template_node.cpp.o[0m
 [100%] [32m[1mLinking CXX executable /home/jrv/Desktop/SocialBot/SocialBot/devel/.private/ros_package_template/lib/ros_package_template/ros_package_template[0m
 [100%] Built target ros_package_template
